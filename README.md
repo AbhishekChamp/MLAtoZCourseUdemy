@@ -8,6 +8,10 @@ This course is fun and exciting. It is structured the following way:
 
 ---
 
+### Course Link - https://www.udemy.com/share/101Wci/
+
+---
+
 Part 1 - Data Preprocessing
 
 Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression
